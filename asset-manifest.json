@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-element-spinner-demo/static/css/main.75bba178.chunk.css",
+    "main.js": "/react-element-spinner-demo/static/js/main.3d01ba55.chunk.js",
+    "main.js.map": "/react-element-spinner-demo/static/js/main.3d01ba55.chunk.js.map",
+    "runtime-main.js": "/react-element-spinner-demo/static/js/runtime-main.fdea1557.js",
+    "runtime-main.js.map": "/react-element-spinner-demo/static/js/runtime-main.fdea1557.js.map",
+    "static/js/2.27bd6922.chunk.js": "/react-element-spinner-demo/static/js/2.27bd6922.chunk.js",
+    "static/js/2.27bd6922.chunk.js.map": "/react-element-spinner-demo/static/js/2.27bd6922.chunk.js.map",
+    "index.html": "/react-element-spinner-demo/index.html",
+    "precache-manifest.d7dd92a9667b3b01ca1d22f3f972c632.js": "/react-element-spinner-demo/precache-manifest.d7dd92a9667b3b01ca1d22f3f972c632.js",
+    "service-worker.js": "/react-element-spinner-demo/service-worker.js",
+    "static/css/main.75bba178.chunk.css.map": "/react-element-spinner-demo/static/css/main.75bba178.chunk.css.map",
+    "static/js/2.27bd6922.chunk.js.LICENSE": "/react-element-spinner-demo/static/js/2.27bd6922.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdea1557.js",
+    "static/js/2.27bd6922.chunk.js",
+    "static/css/main.75bba178.chunk.css",
+    "static/js/main.3d01ba55.chunk.js"
+  ]
+}
